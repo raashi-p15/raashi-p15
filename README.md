@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raashi-p15
-- 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning SASS/SCSS.
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning Python and Azure.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me rparashar152004@gmail.com
 - 😄 Pronouns: she/her
